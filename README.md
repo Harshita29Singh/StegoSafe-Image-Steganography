@@ -48,6 +48,6 @@ diagrams/
 ---
 
 ## 👥 Team Members
-- Harshita Singh – Java Developer (OOP, Main Logic)
-- Naveen Kumar – JDBC & Database
-- Shriyanshi Srivastava – GUI Design & Testing
+- Harshita Singh [@Harshita29Singh]– Java Developer (OOP, Main Logic)
+- Naveen Kumar[Naveenkumarcs0121] – JDBC & Database
+- Shriyanshi Srivastava[shriyanshisrivastava2005-ai] – GUI Design & Testing
